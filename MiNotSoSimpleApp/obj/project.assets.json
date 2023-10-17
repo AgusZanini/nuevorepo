@@ -579,11 +579,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Usuario\\Desktop\\facu\\4to\\inge de software 3\\TPS\\ejercicios-ingesoftw3\\09-pruebas-unitarias\\MiNotSoSimpleApp\\MiNotSoSimpleApp.csproj",
+      "projectUniqueName": "c:\\Users\\Usuario\\Desktop\\facu\\4to\\inge de software 3\\reponuevo\\MiNotSoSimpleApp\\MiNotSoSimpleApp.csproj",
       "projectName": "MiNotSoSimpleApp",
-      "projectPath": "c:\\Users\\Usuario\\Desktop\\facu\\4to\\inge de software 3\\TPS\\ejercicios-ingesoftw3\\09-pruebas-unitarias\\MiNotSoSimpleApp\\MiNotSoSimpleApp.csproj",
+      "projectPath": "c:\\Users\\Usuario\\Desktop\\facu\\4to\\inge de software 3\\reponuevo\\MiNotSoSimpleApp\\MiNotSoSimpleApp.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Usuario\\Desktop\\facu\\4to\\inge de software 3\\TPS\\ejercicios-ingesoftw3\\09-pruebas-unitarias\\MiNotSoSimpleApp\\obj\\",
+      "outputPath": "c:\\Users\\Usuario\\Desktop\\facu\\4to\\inge de software 3\\reponuevo\\MiNotSoSimpleApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",

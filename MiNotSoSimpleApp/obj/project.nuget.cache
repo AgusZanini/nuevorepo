@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SJfNIQG77Rmvn2xhs85k6GQSOwitQbOG2lmYiU4tP/HbNc+ewcztljWOVPR4xsmbCrPB6+9YnyqMZeN9CsE82Q==",
+  "dgSpecHash": "t/3ZjPKUjEmdhzBReLnGOtAb4VidOe8m+1Pi1DLqnVfKD9zOvIOUDmI8+Z/IdWDSqhax87uzC0u2x/R/9vQwpg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\facu\\4to\\inge de software 3\\TPS\\ejercicios-ingesoftw3\\09-pruebas-unitarias\\MiNotSoSimpleApp\\MiNotSoSimpleApp.csproj",
+  "projectFilePath": "c:\\Users\\Usuario\\Desktop\\facu\\4to\\inge de software 3\\reponuevo\\MiNotSoSimpleApp\\MiNotSoSimpleApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
